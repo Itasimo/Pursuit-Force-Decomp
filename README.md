@@ -1,2 +1,2 @@
-# Pursuit-Force-Decomp
+# Pursuit Force Decompilation
 Decompilation of  Pursuit Force
